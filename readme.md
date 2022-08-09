@@ -8,3 +8,7 @@ Features:
 - Dark mode
 - SwiftUI
 
+## Screenshots
+
+![day-mode](/images/day-mode.png)
+![night-mode](/images/night-mode.png)
