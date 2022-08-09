@@ -12,3 +12,8 @@ Features:
 
 ![day-mode](/images/day-mode.png)
 ![night-mode](/images/night-mode.png)
+
+## Resources
+
+- [Sean Allen's tutorial](https://www.youtube.com/watch?v=HXoVSbwWUIk)
+- [OpenWeather](https://openweathermap.org/api)
