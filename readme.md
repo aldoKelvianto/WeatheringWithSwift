@@ -1,6 +1,7 @@
 ## Description
 
-Yet another iOS weather app. Build with Swift UI.
+Yet another iOS weather app.
+This app is built with Swift UI.
 
 Features:
 - Get user location
