@@ -26,6 +26,7 @@
 		1D648860289C16A000E1A95D /* Transformer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D64885F289C16A000E1A95D /* Transformer.swift */; };
 		1D648862289C174800E1A95D /* WeatherResponseEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D648861289C174800E1A95D /* WeatherResponseEntity.swift */; };
 		1D6DFF5E289E6F1D003CC94F /* CityEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D6DFF5D289E6F1D003CC94F /* CityEntity.swift */; };
+		1DD0AE8228D19F13004D6058 /* UuidTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD0AE8128D19F13004D6058 /* UuidTest.swift */; };
 		1DE335E0287882E60033480B /* CityTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DE335DF287882E60033480B /* CityTextView.swift */; };
 		1DF1DD8F289D5FE800330679 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 1DF1DD8E289D5FE800330679 /* Alamofire */; };
 		1DF1DD92289D602B00330679 /* SDWebImageSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 1DF1DD91289D602B00330679 /* SDWebImageSwiftUI */; };
@@ -74,6 +75,7 @@
 		1D648861289C174800E1A95D /* WeatherResponseEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherResponseEntity.swift; sourceTree = "<group>"; };
 		1D6DFF5D289E6F1D003CC94F /* CityEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityEntity.swift; sourceTree = "<group>"; };
 		1D6DFF61289E7C16003CC94F /* TukuLocation.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = TukuLocation.gpx; sourceTree = "<group>"; };
+		1DD0AE8128D19F13004D6058 /* UuidTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UuidTest.swift; sourceTree = "<group>"; };
 		1DE335DF287882E60033480B /* CityTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityTextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -152,6 +154,7 @@
 			isa = PBXGroup;
 			children = (
 				1D25491328771B7200B3FF2F /* WeatheringWithSwiftTests.swift */,
+				1DD0AE8128D19F13004D6058 /* UuidTest.swift */,
 			);
 			path = WeatheringWithSwiftTests;
 			sourceTree = "<group>";
@@ -352,6 +355,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1DD0AE8228D19F13004D6058 /* UuidTest.swift in Sources */,
 				1D25491428771B7200B3FF2F /* WeatheringWithSwiftTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
