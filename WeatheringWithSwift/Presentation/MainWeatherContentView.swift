@@ -38,7 +38,7 @@ struct MainWeatherContentView: View {
                         UIApplication.shared.open(link)
                     }
                 } label: {
-                    WeatherButton(
+                    WeatherButtonView(
                         title: "Open Weather Detail",
                         backgroundColor: .white,
                         textColor: .blue

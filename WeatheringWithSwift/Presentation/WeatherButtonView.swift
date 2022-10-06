@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct WeatherButton: View {
+struct WeatherButtonView: View {
     
     var title: String
     var backgroundColor: Color
@@ -25,7 +25,7 @@ struct WeatherButton: View {
 
 struct WeatherButton_Previews: PreviewProvider {
     static var previews: some View {
-        WeatherButton(
+        WeatherButtonView(
             title: "Change Day Time",
             backgroundColor: .white,
             textColor: .blue

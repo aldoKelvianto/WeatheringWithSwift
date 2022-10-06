@@ -13,7 +13,6 @@ struct BackgroundView: View {
     var body: some View {
         let topColor : Color = isNight ? .black : .blue
         let bottomColor : Color = isNight ? .gray : Color("lightBlue")
-        
         LinearGradient(colors: [topColor, bottomColor],
                        startPoint: .topLeading,
                        endPoint: .bottomTrailing)
